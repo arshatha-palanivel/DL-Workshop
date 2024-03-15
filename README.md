@@ -4,7 +4,7 @@
 ### NAME: ARSHATHA
 ### REGISTER NUMBER: 212222230012
 
-1. Write a python code to convert the categorical input to numeric values.
+#### 1. Write a python code to convert the categorical input to numeric values.
 
 ![WS 01](https://github.com/arshatha-palanivel/DL-Workshop/assets/118682484/ec899d9d-f9c2-47c3-9e80-2dd183869361)
 
@@ -30,11 +30,11 @@
 
 ![WS 12](https://github.com/arshatha-palanivel/DL-Workshop/assets/118682484/13a4b652-41e1-49c0-95a0-c25a8d4576c8)
 
-2. Write a python code to convert the categorical output to numeric values.
+#### 2. Write a python code to convert the categorical output to numeric values.
 
 ![WS 13](https://github.com/arshatha-palanivel/DL-Workshop/assets/118682484/aa5fd03c-8005-4803-955a-ddb816263344)
 
-3. Build a TensorFlow model with an appropriate activation function and the number of neurons in the output layer.
+#### 3. Build a TensorFlow model with an appropriate activation function and the number of neurons in the output layer.
 
 ![WS 14](https://github.com/arshatha-palanivel/DL-Workshop/assets/118682484/e0cbf597-d2af-43ff-b83a-10861af82eab)
 
@@ -42,7 +42,7 @@
 
 ![WS 16](https://github.com/arshatha-palanivel/DL-Workshop/assets/118682484/751883df-5726-4af5-a460-0c69b739a1d7)
 
-4. Draw the neural network architecture for your model using the following website.
+#### 4. Draw the neural network architecture for your model using the following website.
 
 ![WS 17](https://github.com/arshatha-palanivel/DL-Workshop/assets/118682484/b25a0767-783a-4dce-aa6e-2815ae633a1d)
 
